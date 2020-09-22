@@ -6,6 +6,7 @@ public class NuovaClasse {
 	
 	public void stampaNumero() {
 		System.out.println(a);
+		System.out.println("Niente lo fermerà!");
 	}
 	
 }
