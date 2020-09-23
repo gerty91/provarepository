@@ -5,8 +5,11 @@ public class NuovaClasse {
 	int a = 0;
 	
 	public void stampaNumero() {
-		System.out.println("oggi è mercoledì");
-		System.out.println("domani è giovedì");
+
+		System.out.println((a+1));
+		System.out.println((a+2));
+		System.out.println((a+3));
+
 	}
 	
 }
